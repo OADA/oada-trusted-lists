@@ -1,4 +1,3 @@
-oada-trusted-lists
-==================
+# oada-trusted-lists
 
-The OADA Trusted Lists
+The offical OADA list of trusted providers.
