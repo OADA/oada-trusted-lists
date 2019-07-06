@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2",
   "comments": "Version 2 supports jku and jwk in trusted_list",
   "trusted_list": [
     { "jku": "https://identity.oada-dev.com/certs" }
