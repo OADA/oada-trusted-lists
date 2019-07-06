@@ -1,7 +1,10 @@
 {
   "version": "2",
-  "comments": "Version 2 supports jku and jwk in trusted_list",
-  "trusted_list": [
-    { "jku": "https://identity.oada-dev.com/certs" }
-  ]
+  "comments": "Version 2 supports list of jku's in jkus key and a jwks key set",
+  "jkus": [
+    "https://identity.oada-dev.com/certs"
+  ],
+  "jwks": {
+    "keys": [ ]
+  }
 }
